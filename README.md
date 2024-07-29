@@ -1,3 +1,6 @@
+ **TRUE_DEMOCRACY**
+
+
 True Democracy is a dynamic web-based project designed to enhance civic engagement and governmental transparency. This platform allows individuals to log in using their government-issued IDs to participate directly in the democratic process. Users can view detailed information about new laws, including their pros and cons, and vote for or against these laws on pre-announced dates. Additionally, users can post suggestions, propose new ideas, and offer feedback to the government.
 
 Features
