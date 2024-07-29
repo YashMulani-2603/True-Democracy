@@ -1,0 +1,47 @@
+ body{
+            background-image:url('media/law2.jpg');
+            background-size:100%;
+            background-repeat:no-repeat;
+ 
+        }
+        .feedbacktheme
+        
+        {
+            margin-top:70px;
+            margin-left: 500px;
+            
+        }
+        .mapdiv
+        {
+            margin-top:500px;
+        }
+        
+        .tabtheme{
+            color:black;
+            font-family:Arial;
+            font-size:20px;
+            text-transform: uppercase; 
+            text-align: center;
+            background-color:rgba(0,0,0,0.3);
+            height: 80px;
+        }
+            
+              a{
+                  text-decoration: none;
+                  color:white;
+                  
+              }
+              dropnav{
+           
+            height:80px;
+            text-align: center;
+            font-family: Times New Roman;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            box-shadow: 3px 5px 10px black;
+            width: 100%;
+                border: none;
+               
+        }
+       
